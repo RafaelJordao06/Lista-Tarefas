@@ -9,9 +9,6 @@ Bem-vindo ao repositório do projeto do Gerenciador de Lista de Tarefas em React
 - Excluir uma tarefa: Clique no ícone de lixeira ao lado de uma tarefa para removê-la da lista
 - Excluir todas as tarefas: Clique no botão "Excluir Todas" para remover todas as tarefas da lista de uma só vez.
 
-## Imagens
-<img src="![image](https://github.com/RafaelJordao06/Lista-Tarefas/assets/79488603/776cdf87-cb2c-4491-9aa6-9b025df2effb)">
-
 ## Como executar o projeto
 1- Certifique-se de ter o Node.js instalado em sua máquina.
 
